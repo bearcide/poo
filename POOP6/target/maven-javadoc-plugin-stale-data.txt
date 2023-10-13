@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP6 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP6 1.0-SNAPSHOT API'
+fi.poo
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/src/main/java = 1696598615498
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/index.html = 1697170482766
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/jquery-ui.overrides.css = 1697170482802
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/allclasses.html = 1697170482762
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/help-doc.html = 1697170482774
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/package-search-index.js = 1697170482710
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/search.js = 1697170482782
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/allclasses-index.html = 1697170482742
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/type-search-index.js = 1697170482722
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/script.js = 1697170482782
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/package-search-index.zip = 1697170482722
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/element-list = 1697170482594
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/stylesheet.css = 1697170482778
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/overview-tree.html = 1697170482666
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/member-search-index.zip = 1697170482726
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/deprecated-list.html = 1697170482758
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/member-search-index.js = 1697170482726
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/index-all.html = 1697170482730
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/type-search-index.zip = 1697170482726
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/constant-values.html = 1697170482626
+/home/emilio/Desktop/evidencias/3semestre/POO/POOP6/target/site/apidocs/allpackages-index.html = 1697170482746
